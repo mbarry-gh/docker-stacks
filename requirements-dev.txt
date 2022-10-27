@@ -7,3 +7,5 @@ sphinx>=1.6
 sphinx-intl
 tabulate
 transifex-client
+gitpython>=3.1.27 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
